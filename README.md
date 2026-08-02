@@ -1,56 +1,26 @@
-# 🎓 KTH Master's Programme in Medical Engineering
+# 🎓 KTH – Royal Institute of Technology
 
-Welcome to my collection of coursework, projects, reports, and learning material from the **Master's Programme in Medical Engineering** at **KTH Royal Institute of Technology**.
+This repository contains material from my studies at **KTH Royal Institute of Technology** in Stockholm, Sweden. It is organized to document my academic progress, technical development, and engineering projects throughout my university education.
 
-The programme combines engineering, computer science, and medicine to develop innovative technologies that improve healthcare. Throughout the programme, students work on real-world challenges using data-driven methods, software development, medical imaging, artificial intelligence, and advanced engineering principles.
-
-## 📚 Areas of Study
-
-The programme covers topics such as:
-
-- Medical imaging and image analysis
-- Biomedical signal processing
-- Artificial intelligence and machine learning for healthcare
-- Health systems engineering
-- Biomedical simulations and modeling
-- Medical device development
-- Statistics and scientific methodology
-- Research methods, ethics, and healthcare innovation
-
-## 🛠️ Skills Developed
-
-During the programme, students gain practical experience in:
-
-- Designing and evaluating medical engineering solutions
-- Developing software for healthcare applications
-- Processing and analyzing biomedical data
-- Applying AI to clinical and healthcare problems
-- Collaborating with engineers, clinicians, and researchers
-- Conducting scientific research and presenting technical results
+The repository includes information about my degree programme, individual courses, and the projects, assignments, and reports completed during my studies.
 
 ## 📂 Repository Structure
 
-Each course has its own folder containing relevant material, which may include:
+- **Master's Programme** – Information about the degree programme, its focus, and the skills developed throughout the education.
+- **Courses** – Individual course folders containing programming assignments, laboratory work, reports, presentations, notes, and course-specific documentation.
 
-- Programming assignments
-- Laboratory work
-- Project reports
+## 🛠️ What You'll Find
+
+- Programming projects
+- Laboratory exercises
+- Technical reports
+- Research assignments
 - Presentations
-- Notes and documentation
-- A course-specific `README.md` describing the course and learning outcomes
+- Course notes
+- Documentation and README files
 
-## 🌍 About the Programme
+## 🎯 Purpose
 
-The **Master's Programme in Medical Engineering** is a two-year (120 ECTS credits) programme taught entirely in English. Students specialize in areas such as **Computer Science**, **Electronics**, or **Physics**, while applying their knowledge to healthcare through fields including **Medical Imaging**, **Biomechanics**, and **Health Systems**. The programme emphasizes project-based learning, interdisciplinary collaboration, and concludes with a master's thesis, often carried out in partnership with hospitals, research institutes, or industry.
+This repository serves as a structured portfolio of my academic work at KTH. It showcases engineering knowledge, software development experience, analytical thinking, and practical problem-solving across a wide range of subjects within computer science, data science, and medical engineering.
 
----
-
-### 🎯 Repository Purpose
-
-This repository documents my academic work and technical development throughout the programme. It showcases engineering projects, programming experience, analytical skills, and research-oriented work relevant to medical technology, AI, and software engineering.
-
----
-
-**🏫 University:** KTH Royal Institute of Technology  
-**🎓 Programme:** Master's Programme in Medical Engineering (120 ECTS Credits)  
-**📍 Location:** Stockholm, Sweden
+Whether you're a recruiter, engineer, or fellow student, this repository provides an overview of the technical skills and experience developed throughout my education.
