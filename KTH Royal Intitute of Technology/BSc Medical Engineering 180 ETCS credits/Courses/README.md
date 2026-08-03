@@ -1,6 +1,6 @@
 # 📚 Courses
 
-This folder contains the courses I have completed as part of my studies at **KTH Royal Institute of Technology**.
+This folder contains the courses I have completed as part of my studies at **BSc Medical Engineering**.
 
 Each course has its own directory with course-specific material, including assignments, laboratory work, programming projects, reports, presentations, notes, and documentation. Most folders also include a dedicated `README.md` summarizing the course content, learning outcomes, and key technical skills developed.
 
