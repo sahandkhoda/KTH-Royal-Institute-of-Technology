@@ -1,31 +1,24 @@
-# 🧙🏻‍♂️ Master of Science in Medical Engineering
+# 🎓 Master of Science in Medical Engineering
 
-This folder contains material from my **Master of Science in Medical Engineering (120 ECTS)** at **KTH Royal Institute of Technology**.
+This folder contains work completed during my **Master of Science in Medical Engineering (120 ECTS)** at **KTH Royal Institute of Technology**.
 
-The programme combines engineering, computer science, and medicine to develop innovative technologies for healthcare. It emphasizes advanced engineering methods, scientific research, artificial intelligence, medical imaging, biomedical signal processing, and medical device development.
+The programme builds upon a strong engineering foundation with advanced studies at the intersection of technology and medicine. It focuses on developing the knowledge and analytical skills required to evaluate, design, and improve medical technologies used in clinical practice and biomedical research. Students also specialize through different engineering tracks and application areas. :contentReference[oaicite:0]{index=0}
 
-## 📚 Areas of Study
+## 🧠 Areas of Study
 
-The programme includes courses in:
+The programme includes advanced courses in topics such as:
 
-- Artificial Intelligence
-- Machine Learning
-- Medical Imaging
-- Biomedical Signal Processing
-- Statistics
-- Simulation and Modeling
-- Scientific Methodology
-- Innovation in Healthcare
+- 🤖 Artificial Intelligence & Machine Learning
+- 🧠 Biomedical Signal Processing
+- 🖼️ Medical Imaging
+- 📊 Statistics & Data Analysis
+- 🧪 Simulation and Modeling
+- 🔬 Scientific Methodology
+- 💻 Computer Science
+- ⚡ Electronics
+- ⚛️ Physics
+- 🏥 Healthcare Technology
 
-## 📂 Repository Contents
+Students can specialize by combining engineering tracks in **Computer Science**, **Electronics**, or **Physics** with application areas such as **Biomechanics**, **Health Systems**, and **Medical Imaging**, allowing the programme to be tailored to different interests within medical engineering.
 
-The programme is organized into:
-
-- Courses
-- Master's Thesis
-
-Each course folder may contain programming assignments, laboratory work, reports, presentations, scientific assignments, and supporting documentation.
-
-## 🎯 Purpose
-
-This repository documents my graduate studies and highlights the advanced knowledge, research experience, and technical skills developed throughout the master's programme.
+The programme concludes with a **Master's Thesis**, where advanced engineering methods are applied to an independent research or development project in medical engineering.
