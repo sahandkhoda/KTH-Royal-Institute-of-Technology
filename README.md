@@ -1,6 +1,8 @@
 # 🎓 Education
 
-This repository contains the academic work completed throughout my university education, organized from university level down to individual courses and projects.
+This repository contains the academic work I completed throughout my university studies. It serves as a structured portfolio of my education, documenting the projects, assignments, reports, laboratory work, and thesis work that have shaped my development as an engineer.
+
+The repository is organized into four levels to make it easy to navigate.
 
 ## 📂 Repository Structure
 
@@ -13,13 +15,13 @@ Education/
 ```
 
 ### 🏫 University
-Contains one folder for each university attended.
+Each university has its own folder containing the degree programmes I completed there.
 
 ### 🎓 Degree Programme
-Groups coursework by degree (e.g., Bachelor's or Master's).
+Each programme provides an overview of the education and contains the associated courses and thesis work.
 
 ### 📚 Courses
-Contains course-specific assignments, laboratory work, projects, reports, and notes.
+Each course includes relevant material such as programming assignments, laboratory work, reports, presentations, and projects completed during the course.
 
 ### 🔬 Thesis
-Contains the final thesis and any supporting material.
+The thesis folders contain the final research projects completed as part of each degree programme, together with any supporting material.
