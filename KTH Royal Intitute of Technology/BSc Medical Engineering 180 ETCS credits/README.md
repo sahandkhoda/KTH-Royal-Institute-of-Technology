@@ -1,35 +1,22 @@
 # 👨🏻‍🎓 Bachelor of Science in Medical Engineering
 
-This folder contains material from my **Bachelor of Science in Medical Engineering (180 ECTS)** at **KTH Royal Institute of Technology**.
+This folder contains work completed during my **Bachelor of Science in Medical Engineering (180 ECTS)** at **KTH Royal Institute of Technology**.
 
-The programme provides a strong foundation in engineering, mathematics, physics, programming, electronics, and medicine. It prepares students to develop technical solutions for healthcare by combining engineering principles with medical applications.
+The programme provides a multidisciplinary foundation in engineering, natural sciences, and medicine, preparing students to develop technical solutions for healthcare and medical technology. Throughout the programme, students combine theoretical knowledge with practical experience through laboratory work, engineering projects, and scientific problem-solving.
 
-## 📚 Areas of Study
+## 🧠 Areas of Study
 
-The programme includes courses in:
+The programme includes courses in topics such as:
 
-- Mathematics
-- Physics
-- Mechanics
-- Programming
-- Electronics
-- Control Engineering
-- Medical Instrumentation
-- Medical Imaging
-- Biotechnology
-- Statistics
-- Entrepreneurship
-- Medical Science
+- 📐 Mathematics
+- ⚛️ Physics
+- 💻 Programming
+- ⚡ Electronics
+- 🎛️ Control Engineering
+- 🩺 Medical Technology
+- 🧬 Physiology and Anatomy
+- 📊 Statistics
+- 🔬 Biomedical Signal Processing
+- 🤝 Engineering Design and Innovation
 
-## 📂 Repository Contents
-
-The programme is organized into:
-
-- Courses
-- Bachelor's Thesis
-
-Each course folder may contain programming assignments, laboratory work, reports, presentations, notes, and other relevant material.
-
-## 🎯 Purpose
-
-This repository documents my academic work throughout the bachelor's programme and showcases the technical foundation developed in medical engineering.
+The programme concludes with a **Bachelor's Thesis**, where knowledge acquired throughout the degree is applied to an independent engineering project.
